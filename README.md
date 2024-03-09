@@ -13,6 +13,6 @@ I have used Coulomb's law and the principle of superposition to compute the fiel
 
 ## Examples
 <p align="center">
-<img src="./images/summary.png" alt="Example 1" width="400" height="auto" />
-<img src="./images/m_evolution.jpg" alt="Example 2" width="400" height="auto">
+<img src="./images/example_1.png" alt="Example 1" width="400" height="auto" />
+<img src="./images/example_2.png" alt="Example 2" width="400" height="auto">
 </p>
