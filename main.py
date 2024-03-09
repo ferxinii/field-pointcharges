@@ -1,5 +1,4 @@
 import numpy as np
-import matplotlib
 import matplotlib.pyplot as plt
 
 
@@ -18,6 +17,8 @@ class Particle:
         plt.plot(self.x, self.y, color=color, marker="o")
 
 class Simu_E:
+    """This class is responsible for the simulation of the electric field in a 2D region. It is defined by a grid, by
+    the electric particles, and results in an electric field produced by the charges and evaluated in the grid."""
     def __init__(self, rangeX, rangeY):
         X, Y = np.meshgrid(rangeX, rangeY)
         self.gridX = X
