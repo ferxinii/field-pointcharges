@@ -7,7 +7,7 @@ Simply click on the plot where you want to place the point charge. A random char
 ## Physics
 I have used Coulomb's law and the principle of superposition to compute the field. However, note that the units are reduced:
 ``` math
-\vec{E*}(\vec{r}) = \sum_{i=1}^N q*_i \frac{\vec{r}-\vec{r_i}}{(\vec{r}-\vec{r_i})^3}  \quad \quad q*_i = q_i 4\pi\epsilon _0
+\vec{E*}(\vec{r}) = \sum_{i=1}^N q*_i \frac{\vec{r}-\vec{r_i}}{(\vec{r}-\vec{r_i})^3}  \quad \quad q*_i = 4\pi\epsilon _0q_i
 ```
 
 
